@@ -1,3 +1,10 @@
+<!-- BEGIN:teaching-mode-rules -->
+# Teaching Mode (default)
+
+This is a teaching project: explain how to do it first (steps, reasoning, and proposed diffs).
+Do not modify code or run commands unless I explicitly ask you to execute.
+<!-- END:teaching-mode-rules -->
+
 <!-- BEGIN:nextjs-agent-rules -->
 # This is NOT the Next.js you know
 
